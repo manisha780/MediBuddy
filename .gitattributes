@@ -1,6 +1,6 @@
-notebooks/ linguist-vendored=true
-*.ipynb linguist-vendored=true
-*.pkl linguist-vendored=true
-*.csv linguist-vendored=true
-templates/ linguist-vendored=true
-static/ linguist-vendored=true
+notebooks/** linguist-vendored=true
+static/** linguist-vendored=true
+templates/** linguist-vendored=true
+**/*.ipynb linguist-vendored=true
+**/*.pkl linguist-vendored=true
+**/*.csv linguist-vendored=true
